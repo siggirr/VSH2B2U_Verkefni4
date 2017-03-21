@@ -17,7 +17,7 @@ VSH2B2U; Verkefnið felst í að hanna vefsíðu(r) um viðburð.
 * :feelsgood:
 
 # Fáðu samnemenda eða vin til að prófa vefinn, fylgstu með hvernig hann notar vefinn og hvernig honum gengur að skrá sig á viðburði.
-* :feelsgood:
+* :feelsgood: 
 
 # Skráðu niðurstöðu prófsins og hvernig þú leysir vandamál sem geta komið upp.
 * :feelsgood:
@@ -26,4 +26,4 @@ VSH2B2U; Verkefnið felst í að hanna vefsíðu(r) um viðburð.
 * :feelsgood:
 
 # Hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
-* :feelsgood:
+* Þegar það kemur að gera endurbætur á vefnum þá væri ég mjög til í að gera online chat-room sem myndi gefa þeim sem hafa skráð sig á síðuna gleyft að tala við aðra notendur á síðunni, Það væri líka sniðugt að leifa random users "Anons" að nota chat-room líka án þess að þurfa að gefa email og þá myndu þeira fá tagmargaðan aðgang að chat room og gefið random "Anon" nafn t.d. "Anon108421".
