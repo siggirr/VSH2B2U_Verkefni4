@@ -1,11 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Rock+Salt');
-
+@import url('https://fonts.googleapis.com/css?family=Play');
 *{
 	box-sizing: border-box;
 }
 
-
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	line-height: 1.2; 
+	background-color: #de0000;
+	color: white;
+	font-family: monospace,sans-serif,serif;
+	font-size: 16px;
 
 }
 
@@ -19,7 +28,7 @@ article h2, content p{
 
 a:active ,a:visited, a:link{
 	text-decoration: none;
-	color: black;
+	color: red;
 }
 
 button{
@@ -28,8 +37,10 @@ button{
 }
 
 h1{
+	font-family: 'Play';
+
 	text-align: center;
-	font-size: 64px;
+	font-size: 32px;
 }
 
 h2, h3{
@@ -43,7 +54,7 @@ footer{
 	width: 100%;
 	height: 100%;
 	padding: 0.4em;
-	background-color: #003366;
+	background-color: #de0000;
 }
 
 /* YouTube */
@@ -61,19 +72,19 @@ iframe{
 nav{
 	text-decoration: none;
 	width: 100%;
-	background-color: #0355a8;
-	border: 1px solid #0355a8;
+	background-color: #de0000;
+	border: 1px solid #FFFFFF;
 }
 
 
 
 nav a:active, nav a:visited{
-	color: black;
+	color: red;
 	text-decoration: none;
 }
 
 nav a:hover{
-	background-color: #003366;
+	background-color: #de0000;
 }
 
 nav ul{
@@ -188,7 +199,7 @@ input:checked + label {
 .topMenu li{
 	width: 100%;
 	padding: 0.1em;
-	background-color: #69aa3a;
+	background-color: #1b1b1b;
 }
 
 .topMenu a{
@@ -245,10 +256,11 @@ input:checked ~ nav .topMenu{
 	border: 2px solid black;
 }
 .borderbox {
+	width: 100%;
 	padding: 1em;
 	margin: 0;
-	border: 2px solid #0355a8;
-	background-color: #003366;
+	border: 2px solid #FFFFFF;
+	background-color: #de0000;
 }
 
 .haed{
@@ -387,11 +399,11 @@ nav{
 	}
 
 	a:visited{
-		color:purple;
+		color:red;
 	}
 
 	a:link{
-		color: blue;
+		color:blue;
 	}
 
 	a:hover {
@@ -399,7 +411,7 @@ nav{
 	}
 
 	nav a:hover {
-		color: #FFFFFF;
+		color:black;
 	}
 
 	h3{
@@ -483,9 +495,9 @@ nav{
 	}
 
 	.parallaxnmeitt{
-		background-image: url("../img/reptilian.gif");
+		background-image: url("../img/ZeldaLogo.jpg");
 
-		height: 500px;
+		height: 600px;
 
 		background-attachment: fixed;
 		background-position: center;
@@ -494,18 +506,17 @@ nav{
 	}
 
 	.parallaxnmtvo{
-		background-image: url("../img/david.jpg");
+		background-image: url("../img/NintendoLandscape.jpg");
 
-		height: 500px;
+		height: 400px;
 
-		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
 
 	.parallaxnmthrju{
-		background-image: url("../img/illuminati.jpg");
+		background-image: url("../img/zeldau.png");
 
 		height: 500px;
 
@@ -517,9 +528,9 @@ nav{
 
 	.navbar {
 		text-align: center;
-		border: 2px solid #0355a8;
+		border: 2px solid #FFFFFF;
 	    overflow: hidden;
-	    background: rgba(153, 153, 153, 0.9);
+	    background: rgba(27, 27, 27, 0.9);
 	    position: fixed; /* Set the navbar to fixed position */
 	    top: 0; /* Position the navbar at the top of the page */
 	    width: 100%; /* Full width */
@@ -537,7 +548,6 @@ nav{
 	.moveInside{
 		position: absolute;
 		margin-top: 10em;
-		margin-left: 38em;
 	}
 
 
@@ -578,4 +588,3 @@ nav{
 
 	}
 }
-
