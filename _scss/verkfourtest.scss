@@ -14,7 +14,7 @@ body{
 	background-color: #de0000;
 	color: white;
 	font-family: monospace,sans-serif,serif;
-	font-size: 16px;
+	font-size: 15px;
 
 }
 
@@ -28,7 +28,7 @@ article h2, content p{
 
 a:active ,a:visited, a:link{
 	text-decoration: none;
-	color: red;
+	color: #de0000;
 }
 
 button{
@@ -45,6 +45,9 @@ h1{
 
 h2, h3{
 	padding: 1em;
+}
+h4, {
+	padding: 8px;
 }
 
 header h2{
@@ -108,17 +111,11 @@ img {
 	width: 100%;
 }
 
-input {
+.menuInput {
   	display: none;
 }
 
-audio{
-	display:block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-label {
+.menuLabel {
 	color: #0087cc;
 	cursor: pointer;
 	display: inline-block;
@@ -132,10 +129,10 @@ label {
 	width: 100%;
 	text-align: center;
 }
-label:hover {
+.menuLabel:hover {
   	color: #ff7b29;
 }
-input:checked + label {
+.menuInput:checked + .menuLabel {
 	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
 	color: #9799a7;
 }
@@ -207,7 +204,7 @@ input:checked + label {
 	flex-flow: column;
 	text-align: center;
 }
-input:checked ~ nav .topMenu{
+.menuInput:checked ~ .topMenu{
 	position: fixed;
 	bottom: 1.85em;
 	left: 0;
@@ -256,8 +253,7 @@ input:checked ~ nav .topMenu{
 	border: 2px solid black;
 }
 .borderbox {
-	width: 100%;
-	padding: 1em;
+	padding: 10px;
 	margin: 0;
 	border: 2px solid #FFFFFF;
 	background-color: #de0000;
@@ -321,7 +317,7 @@ nav{
 	nav a{
 		padding: 10px;
 	}
-	label{
+	.menuLabel{
 		display: none;
 	}
 	a{
@@ -340,7 +336,7 @@ nav{
 		font-size: 21px;
 		font-weight: bold;
 	}
-	input:checked ~ .topMenu{
+	.menuInput:checked ~ .topMenu{
 		position: fixed;
 		bottom: 4em;
 		left: 0;
@@ -495,11 +491,9 @@ nav{
 	}
 
 	.parallaxnmeitt{
-		background-image: url("../img/ZeldaLogo.jpg");
+		background-image: url("../img/Nintendo_Presentation.jpg");
 
 		height: 600px;
-
-		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -518,7 +512,7 @@ nav{
 	.parallaxnmthrju{
 		background-image: url("../img/zeldau.png");
 
-		height: 500px;
+		height: 600px;
 
 		background-attachment: fixed;
 		background-position: center;
@@ -546,38 +540,28 @@ nav{
 	}
 
 	.moveInside{
-		position: absolute;
-		margin-top: 10em;
-	}
-
-
-	tbody{
-		display: table-row-group;
-		vertical-align: middle;
-		border-color: inherit;
+		position: relative;
+		top: 90px;
+		width: 50%;
+		height: 65%;
+		margin: 0 auto;
 	}
 
 	table{
-		display: table;
-		border-collapse: separate;
-		border-spacing: 2px;
-		border-color: grey;
-	}
+		margin: 0 auto;
+		width: 500px;
+		height: 200px;
+		border:2px solid #fff;
 
-	form{
-		display: block;
-		margin-top: 0;
 	}
 
 	tr{
-		display: table-row;
-		vertical-align: inherit;
-		border-color: inherit;
+
 	}
 
 	td{
-		display: table-cell;
-		vertical-align: inherit;	
+		border:1px solid #fff;
+		color: #fff;
 	}
 
 	label{
