@@ -9,12 +9,11 @@
 	<link rel="icon" href="img/NintendoFire.ico">
 </head>
 <body class="body">
-
-<?php
+	<?php
 				$servername = "tsuts.tskoli.is";
 				$username = "2704912199";
 				$password = "mypassword";
-				$myDb = "2704912199_verkefni4_vsh";
+				$myDb = "2704912199_skilaverkefni4_vsh2b3u";
 				// Create connection
 				$conn = new mysqli($servername, $username, $password,$myDb);
 
@@ -70,7 +69,7 @@
 				It’s a big year for Nintendo and according to Nintendo of America's president Reggie Fils-Aime the company is planning a "big" convention to reflect this.
 
 				It's been a few years since Nintendo has done a traditional convention briefing, however, Fils-Aime has recently told fans that we can expect "big" things from Nintendo at this year's show.
-				<hr>
+				
 				Nintendo has a lot to play for at this year’s convention. The Switch will be five months old and Nintendo will need to use its presence at the show to maintain the console’s momentum, and convince people that it has a lot of games coming for the console for the coming years.</h2>
 
 				<div class="parallaxnmtvo"></div>
@@ -94,15 +93,15 @@
 								
 									<tr >
 										<td>
-											<label class="phpLabelTop">Nafn: </label>
+											<label class="phpLabelTop">Full Name: </label>
 										</td>
 										<td>
-											<input type="text" name="name" class="phpInputTop" placeholder="Full name" required autofocus title="Vinsamlegast skráið nafn">
+											<input type="text" name="name" class="phpInputTop" placeholder="Full name" required title="Vinsamlegast skráið nafn">
 										</td>
 									</tr>
 									<tr>
 										<td>
-											<label class="phpLabelBot">Símanúmer: </label>
+											<label class="phpLabelBot">Phone number: </label>
 										</td>
 										<td>
 											<input type="text" name="simanmr" class="phpInputBot" placeholder="123 4567" pattern="\d{3}(?:[\-\s]?)\d{4}" title="Vinsamlegast skráið 7 tölustafi" required>
