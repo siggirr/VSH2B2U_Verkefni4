@@ -32,7 +32,7 @@
 
 			?>
 	<div class="flexin">
-	<h1 class="borderbox haed">Welcome to the Nintendo 2017 Summar convention in Iceland webpage. Please look on below the page to get more infomation on the time and place for the event.</h1>
+	<h1 class="borderbox haed">Welcome to the Nintendo 2017 summar convention in Iceland offical webpage. Information on the time and place for the event is down below.</h1>
 	<input type="checkbox" id="toggle" class="menuInput">
 	<label for="toggle" class="menuLabel">&#9776;Menu</label>
 	<nav>
@@ -66,24 +66,26 @@
 				
 
 				<h2 class="borderbox hugleft">Nintendo 2017: Everything you need to know about this year's gaming extravaganza.
-				It’s a big year for Nintendo and according to Nintendo of America's president Reggie Fils-Aime the company is planning a "big" convention to reflect this.
-
-				It's been a few years since Nintendo has done a traditional convention briefing, however, Fils-Aime has recently told fans that we can expect "big" things from Nintendo at this year's show.
-				
-				Nintendo has a lot to play for at this year’s convention. The Switch will be five months old and Nintendo will need to use its presence at the show to maintain the console’s momentum, and convince people that it has a lot of games coming for the console for the coming years.</h2>
+				It’s a big year for Nintendo and according to Nintendo of America's president Reggie Fils-Aime the company is planning a "big" convention to reflect this And for the first time Nintendo of America brench will be holding a convention in Iceland.
+				|
+				It's been a few years since Nintendo has done a traditional convention briefing, however Fils-Aime has recently told fans that we can expect "big" things from Nintendo at this year's show all over the world.
+				|
+				Nintendo has a lot to play for at this year’s convention. The Switch will be five-six months old and Nintendo will need to use its presence at the show to maintain the console’s momentum, and convince people that it has a lot of games coming for the console for the coming years.
+				|
+				In celebraiton of the first ever Nintendo convetion in Iceland, Nintendo will be giving away 1-free copy of The Legend of Zelda: Breath of the Wild ™ to those Icelanders who sign up for the Nintendo club on this page down below so please take advantage of that Dear Icelanders.</h2>
 
 				<div class="parallaxnmtvo"></div>
 
-				<h2 class="borderbox hugleft">It’s an exciting show for the big player in the industry, Nintendo will be competeing to get the most out of the gaming convension by by saving their biggest announcements for the show.</h2>
+				<h2 class="borderbox hugleft">It’s an exciting show for the big player in the industry, Nintendo will be competeing to get the most out of the gaming convensions by having a special announcement that will shed light on the new feature that was hinted at turning the Nintendo 2017 february presentation where the Nintendo Switch console was revealed to the world so if you are a Nintendo fan you don't want to miss this.</h2>
 				<div>
-				<h1 class="borderbox">Nintendo reveals plans for Nintendo Switch presentation.</h1>
+				<h1 class="borderbox">Nintendo reveals plans for Nintendo Switch.</h1>
 				<figure class="resize"><img src="img/Nintendodebu.jpg"></figure>	
 				</div>
-				<h2 class="borderbox hugleft">In a presentation to financial analysts today in Tokyo, Nintendo Co., Ltd. president Tatsumi Kimishima announced that major details regarding the company’s new Nintendo Switch home gaming system will be shared at the Nintendo Switch Presentation 2017. This will be an event for invited media, financial analysts and trade partners in Tokyo that will be globally livestreamed on Jan. 12, U.S. time. The presentation will include the launch date and pricing for Nintendo Switch, as well as a look at the lineup of games currently in development.
+				<h2 class="borderbox hugleft">In a presentation to financial analysts in Tokyo, Nintendo Co. Ltd. president Tatsumi Kimishima announced that major details regarding the company’s new Nintendo Switch additional feature will be shared at the Nintendo convension 2017 this summer. This will be an event for all Nintendo fans and investors a like. The convension will include the launch date for the new features that's coming to the Nintendo Switch and pricing for set feature, as well as a look at the lineup of games currently in development.
 
-				Kimishima also announced that Nintendo Switch sampling events for invited media, partners, and consumers will take place in the U.S. and Europe after the presentation at later dates. There will be opportunities for the public to participate in other hands-on events around the same time, details of which will be announced later.
+				Kimishima also announced that Nintendo Switch sampling events for invited media, partners, and consumers will take place in the U.S. and Europe after the convention at later dates. There will be opportunities for the public to participate in other hands on events around the same time, details of which will be announced later.
 
-				The exact time of the Nintendo Switch Presentation 2017 will be announced through Nintendo’s social media channels</h2>
+				The exact time of the Nintendo Switch autumn presentation 2017  will be announced through Nintendo’s social media channels at a later time.</h2>
 
 				<div class="parallaxnmthrju">
 					<div class="borderbox moveInside">
@@ -126,6 +128,7 @@
 
 	<footer>
 		<p class="footertxt"> #1 Rule on this site is: No hate speech / No illegal activity. [Feel the power, Nintendo power!  &copy;]</p>
+		<p class="footertxt"> #2 Rule on this site is: No data mining of Nintendo consoles / No game copying activity. [Go for power, Nintendo power!  &copy;]</p>
 
 		<hr>
 
