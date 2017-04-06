@@ -67,11 +67,14 @@
 
 				<h2 class="borderbox hugleft">Nintendo 2017: Everything you need to know about this year's gaming extravaganza.
 				It’s a big year for Nintendo and according to Nintendo of America's president Reggie Fils-Aime the company is planning a "big" convention to reflect this And for the first time Nintendo of America brench will be holding a convention in Iceland.
-				|
+				<br>
+				<br>
 				It's been a few years since Nintendo has done a traditional convention briefing, however Fils-Aime has recently told fans that we can expect "big" things from Nintendo at this year's show all over the world.
-				|
+				<br>
+				<br>
 				Nintendo has a lot to play for at this year’s convention. The Switch will be five-six months old and Nintendo will need to use its presence at the show to maintain the console’s momentum, and convince people that it has a lot of games coming for the console for the coming years.
-				|
+				<br>
+				<br>
 				In celebraiton of the first ever Nintendo convetion in Iceland, Nintendo will be giving away 1-free copy of The Legend of Zelda: Breath of the Wild ™ to those Icelanders who sign up for the Nintendo club on this page down below so please take advantage of that Dear Icelanders.</h2>
 
 				<div class="parallaxnmtvo"></div>
@@ -82,10 +85,13 @@
 				<figure class="resize"><img src="img/Nintendodebu.jpg"></figure>	
 				</div>
 				<h2 class="borderbox hugleft">In a presentation to financial analysts in Tokyo, Nintendo Co. Ltd. president Tatsumi Kimishima announced that major details regarding the company’s new Nintendo Switch additional feature will be shared at the Nintendo convension 2017 this summer. This will be an event for all Nintendo fans and investors a like. The convension will include the launch date for the new features that's coming to the Nintendo Switch and pricing for set feature, as well as a look at the lineup of games currently in development.
-
+				<br>
+				<br>
 				Kimishima also announced that Nintendo Switch sampling events for invited media, partners, and consumers will take place in the U.S. and Europe after the convention at later dates. There will be opportunities for the public to participate in other hands on events around the same time, details of which will be announced later.
-
-				The exact time of the Nintendo Switch autumn presentation 2017  will be announced through Nintendo’s social media channels at a later time.</h2>
+				The exact time of the Nintendo Switch autumn presentation 2017  will be announced through Nintendo’s social media channels at a later time.
+				<br>
+				<br>
+				The Nintendo Summer 2017 Iceland event will be held on the 24th of May and the adress is: Hagatorgi, 107 Reykjavík; 'Hásskólabíó'.  </h2>
 
 				<div class="parallaxnmthrju">
 					<div class="borderbox moveInside">
