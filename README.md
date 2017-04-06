@@ -23,7 +23,9 @@ VSH2B2U; Verkefnið felst í að hanna vefsíðu(r) um viðburð.
 * :feelsgood:
 
 # Er vinnsla í lagi? Er vefurinn villulaus? (sjá Inspector console, firebug, chrome dev)
-* :feelsgood:
+* Vinnsla vefsins er mjög fín nema það að tvær myndir í smart_phone media 48em koma ekki alveg rétt inn og sams með landspace í 48em.
+* Php vinnsla virkar 100% og skilar öllum gögnum sem notandi skráir á síðuna til database nintendopower í phpadmin gagnagrunni [nafn,símanumer]
+* Allur texti á síðunni er á Ensku enda á þessi síða og ráðstefna að vera skipulögð af Nintendo North America branch teyminu.
 
 # Hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 * Þegar það kemur að gera endurbætur á vefnum þá væri ég mjög til í að gera online chat-room sem myndi gefa þeim sem hafa skráð sig á síðuna gleyft að tala við aðra notendur á síðunni, Það væri líka sniðugt að leifa random users "Anons" að nota chat-room líka án þess að þurfa að gefa email og þá myndu þeira fá tagmargaðan aðgang að chat room og gefið random "Anon" nafn t.d. "Anon108421".
