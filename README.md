@@ -23,7 +23,7 @@ VSH2B2U; Verkefnið felst í að hanna vefsíðu(r) um viðburð.
 * :feelsgood:
 
 # Er vinnsla í lagi? Er vefurinn villulaus? (sjá Inspector console, firebug, chrome dev)
-* Vinnsla vefsins er mjög fín nema það að tvær myndir í smart_phone media 48em koma ekki alveg rétt inn og sams með landspace í 48em.
+* Vinnsla vefsins er mjög fín nema það að tvær myndir í smart_phone media 48 koma ekki alveg rétt inn og sama saga með media 48 landscape.
 * Php vinnsla virkar 100% og skilar öllum gögnum sem notandi skráir á síðuna til database nintendopower í phpadmin gagnagrunni [nafn,símanumer]
 * Allur texti á síðunni er á Ensku enda á þessi síða og ráðstefna að vera skipulögð af Nintendo North America branch teyminu.
 
