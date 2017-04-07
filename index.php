@@ -61,9 +61,7 @@
 		<article>
 			<div class="parallaxnmeitt"></div>
 
-			
 			<content>
-				
 
 				<h2 class="borderbox hugleft">Nintendo 2017: Everything you need to know about this year's gaming extravaganza.
 				It’s a big year for Nintendo and according to Nintendo of America's president Reggie Fils-Aime the company is planning a "big" convention to reflect this And for the first time Nintendo of America brench will be holding a convention in Iceland.
@@ -139,7 +137,7 @@
 		<hr>
 
 		<div>
-			<figure class="resize"><img src="img/NintendoSwitch.gif"></figure>
+			<figure class="resizenew"><img src="img/NintendoSwitch.gif"></figure>
 		</div>
 
 		<hr>

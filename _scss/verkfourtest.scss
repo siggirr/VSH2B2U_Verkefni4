@@ -11,7 +11,7 @@ body{
 	margin: 0;
 	padding: 0;
 	line-height: 1.2; 
-	background-color: #de0000;
+	background-color: #e3000d;
 	color: white;
 	font-family: monospace,sans-serif,serif;
 	font-size: 15px;
@@ -23,7 +23,7 @@ p{
 
 a:active ,a:visited, a:link{
 	text-decoration: none;
-	color: #de0000;
+	color: #e3000d;
 }
 
 button{
@@ -54,7 +54,7 @@ footer{
 	width: 100%;
 	height: 100%;
 	padding: 0.4em;
-	background-color: #de0000;
+	background-color: #e3000d;
 }
 
 /* YouTube */
@@ -72,7 +72,7 @@ iframe{
 nav{
 	text-decoration: none;
 	width: 100%;
-	background-color: #de0000;
+	background-color: #e3000d;
 	border: 1px solid #FFFFFF;
 }
 
@@ -82,7 +82,7 @@ nav a:active, nav a:visited{
 }
 
 nav a:hover{
-	background-color: #de0000;
+	background-color: #e3000d;
 }
 
 nav ul{
@@ -150,7 +150,15 @@ img {
 	margin-left: auto;
 	margin-right: auto;
     height:auto;
-    border: 9px groove #FFFFFF;
+    border: 8px groove #FFFFFF;
+
+}
+
+.resizenew{
+	margin-left: auto;
+	margin-right: auto;
+    height:auto;
+    width: 50%;
 
 }
 .newsize {
@@ -252,7 +260,7 @@ img {
 	padding: 10px;
 	margin: 0;
 	border: 2px solid #FFFFFF;
-	background-color: #de0000;
+	background-color: #e3000d;
 }
 
 .haed{
@@ -557,6 +565,7 @@ nav{
 	    position: fixed; /* Set the navbar to fixed position */
 	    top: 0; /* Position the navbar at the top of the page */
 	    width: 100%; /* Full width */
+	    z-index: 999;
 	}
 
 	.navbar a {
@@ -609,7 +618,7 @@ nav{
 		width: 500px;
 		height: 200px;
 		border:2px solid whitesmoke;
-
+		padding-top: 1.5em;
 	}
 
 	tr{
