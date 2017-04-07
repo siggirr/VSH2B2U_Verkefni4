@@ -14,16 +14,16 @@ VSH2B2U; Verkefnið felst í að hanna vefsíðu(r) um viðburð.
 * Þegar ég útskýri hverning samskipti eiga að vera milli client og server þá verður það gert að því leiða ljósi að hafa load times eins low og hægt er og að biðlarar geti búið sér til notanda á síðuna til að fá mánaðalegt Nintendo tímarít send á þeira Email og meðal þess að skrá sig í Nintendo club.
 
 # Útskýrið eigin lausnir og virkni ss forritun og kvikun.
-* :feelsgood:
+* Tæknileg laus #1. Þegar það kemur að Kvikun - animation, þá hef ég ákveðið að nota fín gerða Nintendo switch gif file sem tók mig smá tíma til að finna því þessi animation í þeim git file er með nákvamlega sama lita background og síðan mín sem gerði hann svo fullkominn til að passa in á síðuna og sparaði mér tíma með því að nota það animation gif. :sunglasses:
 
 # Fáðu samnemenda eða vin til að prófa vefinn, fylgstu með hvernig hann notar vefinn og hvernig honum gengur að skrá sig á viðburði.
-* :feelsgood: 
+* :no_entry_sign:
 
 # Skráðu niðurstöðu prófsins og hvernig þú leysir vandamál sem geta komið upp.
-* :feelsgood:
+* Niðurstöður prófsins á vefsíðu sýnir Error: Failed to load resource: the server responded with a status of 404 (Not Found). En hann skiptir svo sem ekki neinu máli því þetta er file sem ég er ekki lengur að nota og vegna þess hefur þessi 404 error ekki áhrif á síðuna.
 
 # Er vinnsla í lagi? Er vefurinn villulaus? (sjá Inspector console, firebug, chrome dev)
-* Vinnsla vefsins er mjög fín nema það að tvær myndir í smart_phone media 48 koma ekki alveg rétt inn og sama saga með media 48 landscape.
+* Vinnsla vefsins er mjög fín nema það að tvær myndir í smart_phone media 48 koma ekki alveg rétt inn og sama saga með media 48 landscape. :trollface:
 * Php vinnsla virkar 100% og skilar öllum gögnum sem notandi skráir á síðuna til database nintendopower í phpadmin gagnagrunni [nafn,símanumer]
 * Allur texti á síðunni er á Ensku enda á þessi síða og ráðstefna að vera skipulögð af Nintendo North America branch teyminu.
 
